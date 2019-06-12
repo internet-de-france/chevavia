@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<article class="post">
+  {% if page.lang == 'ar' %}
+    <style> main { direction: rtl; } </style>
+  {% endif %}
+  <header class="post-header">
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
