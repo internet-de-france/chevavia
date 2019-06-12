@@ -10,23 +10,6 @@ lang: ar
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
-#### يشهد على الاحتيال
-
-<style>
-  body {
-    margin: 0; padding 0;
-    width: 100vw; height: 100vh;
-    position: absolute;
-  }
-  iframe {
-    border: none;
-    height: 50vh;
-    min-height: 400px;
-    position: relative;
-  }
-</style>
-<iframe width="100%" height="100%" src="https://mauritanie-ar.ushahidi.io/posts/create/1" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://mauritanie-ar.ushahidi.io/posts/create/1" frameborder="0" allowfullscreen></iframe>
 
