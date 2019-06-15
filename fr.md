@@ -1,7 +1,8 @@
 ---
 layout: page
 permalink: /fr
-title: Français
+title: Témoignez
+lang: fr
 ---
 <iframe src="https://mauritanie.ushahidi.io/posts/create/1" frameborder="0" allowfullscreen></iframe>
 

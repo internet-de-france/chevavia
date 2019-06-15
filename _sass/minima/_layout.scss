@@ -24,9 +24,15 @@
   }
 }
 
+.menu-checkbox {
+  visibility: hidden;
+  position: absolute;
+}
+
 .site-nav {
   float: right;
   line-height: 56px;
+  z-index: 99999;
 
   .menu-icon {
     display: none;
@@ -69,7 +75,7 @@
       clear: both;
       display: none;
     }
-
+    .menu-checkbox:checked + .trigger,
     &:hover .trigger {
       display: block;
       padding-bottom: 5px;
