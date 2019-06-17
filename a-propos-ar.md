@@ -1,7 +1,8 @@
 ---
 layout: page
-permalink: /ar-a-propos
-title: حول الموضوع
+permalink: /ar
+#permalink: /ar-a-propos
+#title: حول الموضوع
 lang: ar
 ---
 

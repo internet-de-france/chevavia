@@ -1,7 +1,8 @@
 ---
 layout: page
-permalink: /fr-a-propos
-title: A propos
+permalink: /fr
+#permalink: /fr-a-propos
+#title: A propos
 lang: fr
 ---
 
