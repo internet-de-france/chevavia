@@ -7,8 +7,6 @@ title: A propos
 lang: fr
 ---
 
-## Rendez-vous sur ce site samedi 22 juin si vous êtes témoin d’une fraude
-
 Chevavia.org est l’initiative d’un Mauritanien expatrié, Nasser Weddady, Consultant et expert du Moyen-Orient et de l’Afrique du nord. Il est aussi activiste de longue date, connu mondialement sous son nom d'utilisateur @weddady sur Twitter.
 
 Il offre à la Mauritanie cet outil afin de développer une culture de surveillance citoyenne des élections et de la bonne gouvernance, dont la transparence en est la pierre angulaire.
