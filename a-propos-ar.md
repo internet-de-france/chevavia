@@ -1,11 +1,13 @@
 ---
 layout: page
-# permalink: /ar
-permalink: /ar-a-propos
-# title: ""
-title: حول الموضوع
+permalink: /ar
+title: ""
+# permalink: /ar-a-propos
+# title: حول الموضوع
 lang: ar
 ---
+
+## [Télécharger le rapport](../assets/ushahidi_anonymise_fraudes_election.xlsx)
 
 موقع شفافية مبادرة من المواطن الموريتاني المغترب ناصر ودادي، وهو إستشاري وخبير في شؤون الشرق الأوسط وشمال إفريقيا. ناصر ناشط حقوقي قديم ومعروف دولياً كـ @weddady  وهو إسم المستخدم على حسابه على تويتر.
 
